@@ -1,9 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=abdillahnoersaid.abdillahnoersaid" />
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=435&lines=Hi+there!+👋;I'm+Abdillah+Noer+Said;Fullstack+Web+Developer+from+Indonesia" alt="Typing SVG"/>
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&width=500&lines=Hi+there!+👋;I'm+Abdillah+Noer+Said;Fullstack+Web+Developer+from+Indonesia" alt="Typing SVG" />
 </div>
 
 <hr/>
