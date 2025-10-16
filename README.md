@@ -8,7 +8,7 @@
 
 <hr/>
 
-<h3 align="center">🌱 Programmer from Indonesia 🌱</h3>
+<h3 align="center">Programmer from Indonesia</h3>
 
 <div align="center">
   <h3>📫 Contact Me 📫</h3>
