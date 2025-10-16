@@ -14,11 +14,11 @@
   <h3>📫 Contact Me 📫</h3>
   <p>Feel free to connect with me through social media below:</p>
 
-  <a href="https://www.linkedin.com/in/abdillahnoersaid">
+  <a href="https://www.linkedin.com/in/abdillah-noer-said-1947b7384">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://www.instagram.com/abdillahnoersaid/">
+  <a href="https://www.instagram.com/diillz._">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
