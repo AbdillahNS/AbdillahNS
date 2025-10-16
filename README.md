@@ -6,8 +6,6 @@
 
 <hr/>
 
-<h3 align="center">Programmer from Indonesia</h3>
-
 <div align="center">
   <h3>📫 Contact Me 📫</h3>
   <p>Feel free to connect with me through social media below:</p>
