@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=abdillahnoersaid.abdillahnoersaid" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&width=500&lines=Hi+there!+👋;I'm+Abdillah+Noer+Said;Fullstack+Web+Developer+from+Indonesia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&width=500&lines=Hi+Everyone!+👋;I'm+Abdillah+Noer+Said;Programmer+from+Indonesia" alt="Typing SVG" />
 </div>
 
 <hr/>
